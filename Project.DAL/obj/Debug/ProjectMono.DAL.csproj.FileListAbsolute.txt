@@ -1,0 +1,84 @@
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll.config
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.pdb
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csprojAssemblyReference.cache
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CopyComplete
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.dll
+C:\Users\Ging\source\repos\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.pdb
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll.config
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.pdb
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csprojAssemblyReference.cache
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CopyComplete
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.dll
+C:\Users\Ging\Desktop\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.pdb
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll.config
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.pdb
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.dll
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.xml
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csprojAssemblyReference.cache
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CoreCompileInputs.cache
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CopyComplete
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.dll
+G:\ProjectMono all versions\V18\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.pdb
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll.config
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.pdb
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csprojAssemblyReference.cache
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CopyComplete
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.dll
+C:\Users\Ging\Desktop\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.pdb
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll.config
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.pdb
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.dll
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.xml
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csprojAssemblyReference.cache
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CoreCompileInputs.cache
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CopyComplete
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.dll
+G:\ProjectMono all versions\V20\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.pdb
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll.config
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.pdb
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csprojAssemblyReference.cache
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CopyComplete
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.dll
+C:\Users\Ging\Desktop\MonoProject\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.pdb
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll.config
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.dll
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\bin\Debug\ProjectMono.DAL.pdb
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.AssemblyReference.cache
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.csproj.CopyComplete
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.dll
+C:\Users\Davor\Desktop\MonoProject-master\Project\ProjectMono\ProjectMono.DAL\obj\Debug\ProjectMono.DAL.pdb

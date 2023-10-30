@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:Project.WebAPI.Controllers.VehicleMakeController.Get(System.Nullable{System.Int32})">
+            <summary>
+            Get method,
+            api/VehicleMake/5
+            </summary>
+            <param name="id">VehicleMake Id</param>
+            <returns>Returns a single VehicleMakeVM</returns>
+        </member>
+        <member name="M:Project.WebAPI.Controllers.VehicleMakeController.Post(Project.WebAPI.Models.VehicleMakeVM)">
+            <summary>
+            Post method,
+            api/VehicleMake
+            </summary>
+            <param name="VM">View Model, type of VehicleMakeVM</param>
+        </member>
+        <member name="M:Project.WebAPI.Controllers.VehicleMakeController.Put(System.Nullable{System.Int32},Project.WebAPI.Models.VehicleMakeVM)">
+            <summary>
+            Put method,
+            api/VehicleMake/5
+            </summary>
+            <param name="id">VehicleMake Id, type of int</param>
+            <param name="VM">View Model, type of VehicleMakeVM</param>
+        </member>
+        <member name="M:Project.WebAPI.Controllers.VehicleMakeController.Delete(System.Nullable{System.Int32})">
+            <summary>
+            Delete method,
+            api/VehicleMake/5
+            </summary>
+            <param name="id">VehicleMake Id, type of int</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Project.WebAPI.Controllers.VehicleModelController.Get(System.Nullable{System.Int32},System.Nullable{System.Int32},System.String,System.String,System.String,System.Nullable{System.Int32})" -->
+        <member name="M:Project.WebAPI.Controllers.VehicleModelController.Get(System.Nullable{System.Int32})">
+            <summary>
+            Get method,
+            api/VehicleModel/5
+            </summary>
+            <param name="id">VehicleModel Id</param>
+            <returns>Returns a single VehicleModelVM</returns>
+        </member>
+        <member name="M:Project.WebAPI.Controllers.VehicleModelController.Put(System.Nullable{System.Int32},Project.WebAPI.Models.VehicleModelVM)">
+            <summary>
+            Put method,
+            api/VehicleModel/5
+            </summary>
+            <param name="id">VehicleModel Id, type of int</param>
+            <param name="VM">View Model, type of VehicleModelVM</param>
+        </member>
+        <member name="M:Project.WebAPI.Controllers.VehicleModelController.Delete(System.Nullable{System.Int32})">
+            <summary>
+            Delete method,
+            api/VehicleModel/5
+            </summary>
+            <param name="id">VehicleModel Id, type of int</param>
+        </member>
+        <member name="T:Project.WebAPI.Models.VehicleMakeVM">
+            <summary>
+            VehicleMake View Model Class
+            </summary>
+        </member>
+        <member name="T:Project.WebAPI.Models.VehicleModelVM">
+            <summary>
+            VehicleModel View Model Class
+            </summary>
+        </member>
+    </members>
+</doc>
