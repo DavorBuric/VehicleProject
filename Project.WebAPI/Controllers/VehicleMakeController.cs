@@ -25,10 +25,9 @@ namespace Project.WebAPI.Controllers
             this.service = service;
         }
 
-        [HttpGet]
         /// <summary>
         /// Get method,
-        /// /api/VehicleMake/?page=&pagesize=5&search=&sort=&direction=
+        /// /api/VehicleMake?page=1&amp;pagesize=5&amp;search=test&amp;sort=Name&amp;direction=ascending
         /// </summary>
         /// <param name="page">Current page</param>
         /// <param name="pagesize">Page size, if page size is not given it's set to 0</param>
@@ -36,6 +35,7 @@ namespace Project.WebAPI.Controllers
         /// <param name="sort">Sort by Name or Abrv</param>
         /// <param name="direction">Sort direction it can be ascending or descending</param>
         /// <returns>Returns a list of VehicleMakeVM</returns>
+        [HttpGet]       
         public async Task<IHttpActionResult> Get(int? page,int? pagesize, string search, string sort, string direction)
         {
             var sortParameters = new SortParameters()

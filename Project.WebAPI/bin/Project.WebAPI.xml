@@ -4,6 +4,18 @@
         <name>Project.WebAPI</name>
     </assembly>
     <members>
+        <member name="M:Project.WebAPI.Controllers.VehicleMakeController.Get(System.Nullable{System.Int32},System.Nullable{System.Int32},System.String,System.String,System.String)">
+            <summary>
+            Get method,
+            /api/VehicleMake?page=1&amp;pagesize=5&amp;search=test&amp;sort=Name&amp;direction=ascending
+            </summary>
+            <param name="page">Current page</param>
+            <param name="pagesize">Page size, if page size is not given it's set to 0</param>
+            <param name="search">Search</param>
+            <param name="sort">Sort by Name or Abrv</param>
+            <param name="direction">Sort direction it can be ascending or descending</param>
+            <returns>Returns a list of VehicleMakeVM</returns>
+        </member>
         <member name="M:Project.WebAPI.Controllers.VehicleMakeController.Get(System.Nullable{System.Int32})">
             <summary>
             Get method,
@@ -34,7 +46,19 @@
             </summary>
             <param name="id">VehicleMake Id, type of int</param>
         </member>
-        <!-- Badly formed XML comment ignored for member "M:Project.WebAPI.Controllers.VehicleModelController.Get(System.Nullable{System.Int32},System.Nullable{System.Int32},System.String,System.String,System.String,System.Nullable{System.Int32})" -->
+        <member name="M:Project.WebAPI.Controllers.VehicleModelController.Get(System.Nullable{System.Int32},System.Nullable{System.Int32},System.String,System.String,System.String,System.Nullable{System.Int32})">
+            <summary>
+            Get method,
+            /api/VehicleModel?page=1&amp;pagesize=5&amp;search=test&amp;sort=Name&amp;direction=ascending&amp;makeid=1
+            </summary>
+            <param name="page">Current page</param>
+            <param name="pagesize">Page size, if page size is not given it's set to 0</param>
+            <param name="search">Search</param>
+            <param name="sort">Sort by Name or Abrv</param>
+            <param name="direction">Sort direction it can be ascending or descending</param>
+            <param name="makeid">Id of vehicle make</param>
+            <returns>Returns a list of VehicleModelVM</returns>
+        </member>
         <member name="M:Project.WebAPI.Controllers.VehicleModelController.Get(System.Nullable{System.Int32})">
             <summary>
             Get method,
@@ -42,6 +66,13 @@
             </summary>
             <param name="id">VehicleModel Id</param>
             <returns>Returns a single VehicleModelVM</returns>
+        </member>
+        <member name="M:Project.WebAPI.Controllers.VehicleModelController.Post(Project.WebAPI.Models.VehicleModelVM)">
+            <summary>
+            Post method,
+            api/VehicleModel
+            </summary>
+            <param name="VM">View Model, type of VehicleModelVM</param>
         </member>
         <member name="M:Project.WebAPI.Controllers.VehicleModelController.Put(System.Nullable{System.Int32},Project.WebAPI.Models.VehicleModelVM)">
             <summary>

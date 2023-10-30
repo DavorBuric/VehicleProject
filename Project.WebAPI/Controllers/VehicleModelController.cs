@@ -30,13 +30,14 @@ namespace Project.WebAPI.Controllers
 
         /// <summary>
         /// Get method,
-        /// /api/VehicleModel/?page=&pagesize=5&search=&sort=&direction=&makeid=
+        /// /api/VehicleModel?page=1&amp;pagesize=5&amp;search=test&amp;sort=Name&amp;direction=ascending&amp;makeid=1
         /// </summary>
         /// <param name="page">Current page</param>
         /// <param name="pagesize">Page size, if page size is not given it's set to 0</param>
         /// <param name="search">Search</param>
         /// <param name="sort">Sort by Name or Abrv</param>
         /// <param name="direction">Sort direction it can be ascending or descending</param>
+        /// <param name="makeid">Id of vehicle make</param>
         /// <returns>Returns a list of VehicleModelVM</returns>
         [HttpGet]
         public async Task<IHttpActionResult> Get(int? page, int? pagesize, string search, string sort, string direction, int? makeid)
@@ -84,12 +85,12 @@ namespace Project.WebAPI.Controllers
             }
         }
 
-        [HttpPost]
         /// <summary>
         /// Post method,
         /// api/VehicleModel
         /// </summary>
         /// <param name="VM">View Model, type of VehicleModelVM</param>
+        [HttpPost]        
         public async Task<IHttpActionResult> Post([FromBody]VehicleModelVM VM)
         {
             try

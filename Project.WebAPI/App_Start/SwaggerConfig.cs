@@ -2,6 +2,8 @@ using System.Web.Http;
 using WebActivatorEx;
 using Project.WebAPI;
 using Swashbuckle.Application;
+using System.IO;
+using System;
 
 [assembly: PreApplicationStartMethod(typeof(SwaggerConfig), "Register")]
 
@@ -16,6 +18,8 @@ namespace Project.WebAPI
             GlobalConfiguration.Configuration
                 .EnableSwagger(c =>
                     {
+                        var path = string.Format(@"{0}bin\Project.WebAPI.xml", AppDomain.CurrentDomain.BaseDirectory);
+                        c.IncludeXmlComments(path);
                         // By default, the service root url is inferred from the request used to access the docs.
                         // However, there may be situations (e.g. proxy and load-balanced environments) where this does not
                         // resolve correctly. You can workaround this by providing your own code to determine the root URL.
